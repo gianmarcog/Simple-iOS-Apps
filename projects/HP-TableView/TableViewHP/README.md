@@ -23,3 +23,5 @@ Falls bei dir die 'Quick Help' Anzeige nicht funktioniert lösche einfach den In
 ~/Library/Developer/Xcode/DerivedData
 
 ~/Library/Caches/com.apple.dt.Xcode
+
+![image](https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/HP-TableView/TableViewHP/firstPicture.png)
