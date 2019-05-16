@@ -24,4 +24,4 @@ Falls bei dir die 'Quick Help' Anzeige nicht funktioniert lösche einfach den In
 
 ~/Library/Caches/com.apple.dt.Xcode
 
-![image](https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/HP-TableView/TableViewHP/firstPicture.png =200x400)
+<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/HP-TableView/TableViewHP/firstPicture.png" alt="alt text" width="200" height="400">
