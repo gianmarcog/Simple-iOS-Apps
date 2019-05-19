@@ -31,6 +31,5 @@ Falls bei dir die 'Quick Help' Anzeige nicht funktioniert lösche einfach den In
 ~/Library/Caches/com.apple.dt.Xcode
 
 
-<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/QuizMC/QuizzAppMC/mc_image_1.png" alt="alt text" width="200" height="400">
-<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/QuizMC/QuizzAppMC/mc_image_2.png" alt="alt text" width="200" height="400">
+<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/QuizMC/QuizzAppMC/mc_image_1.png" alt="alt text" width="200" height="400">.        <img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/QuizMC/QuizzAppMC/mc_image_2.png" alt="alt text" width="200" height="400">
 
