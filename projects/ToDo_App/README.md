@@ -26,4 +26,6 @@ Falls bei dir die 'Quick Help' Anzeige nicht funktioniert lösche einfach den In
 
 
 <img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_1.png" alt="alt text" width="200" height="400">               <img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_2.png" alt="alt text" width="200" height="400"> 
-<img src="<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_1.png" alt="alt text" width="200" height="400">" alt="alt text" width="200" height="400">.     <img src="hhttps://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_4.png" alt="alt text" width="200" height="400">
+
+
+<img src="<img src="https://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_1.png" alt="alt text" width="200" height="400">" alt="alt text" width="200" height="400">      <img src="hhttps://github.com/gianmarcog/simple-ios-apps/blob/master/projects/ToDo_App/toApp_4.png" alt="alt text" width="200" height="400">
