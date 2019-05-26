@@ -18,13 +18,13 @@ annax: If your 'Quick Help' don't work (Xcode 10) delete the insde of these fold
 
 German:
 
-Wenn du die Pop-up Fenster auch verwenden willst, musst du dir dieses Repository herunterladen (https://github.com/pkluz/PKHUD). Dort wird dir auch einfach erklärt wie du es implementieren musst.
+Wenn du die Pop-up Fenster auch verwenden möchtest, musst du dir dieses Repository herunterladen (https://github.com/pkluz/PKHUD). Dort wird dir auch einfach erklärt wie du es implementieren musst.
 
 Falls ihr nicht wisst, wie man ein Podfile einbindet (externe Bibliothek) schaut euch dieses Video dazu an --> https://www.youtube.com/watch?v=BSYLs0wl5ME&t=437s
 
 Mein Grundgedanke hinter der Ordnerstruktur war des MVC Muster. (Model = beinhaltet die Quizfragen, die Informationen welche für das Spiel benötigt werden. View = Die View spiegelt alles ab, was man auf dem Display/ der GUI dann zusehen bekommt. Controller = Der Controller ist das Gehirn der App. Es sorgt dafür, dass die Daten vom Model richtig verarbeitet werden und dann zum Schluss auf in der View angezeigt wird.
 
-Falls bei dir die 'Quick Help' Anzeige nicht funktioniert lösche einfach den Inhalt der folgenden Ordern.
+Falls bei dir die 'Quick Help' Anzeige nicht funktioniert oder es sonstige Probleme gibt, lösche einfach den Inhalt der folgenden Ordern.
 
 ~/Library/Developer/Xcode/DerivedData
 
