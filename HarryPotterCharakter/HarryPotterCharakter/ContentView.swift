@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  HarryPotterCharakters_SwiftUI
+//  HarryPotterCharakter
 //
 //  Created by Gianmarco Giretti on 25.07.19.
 //  Copyright © 2019 Gianmarco Giretti. All rights reserved.
@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello World")
+        Text("test")
     }
 }
 

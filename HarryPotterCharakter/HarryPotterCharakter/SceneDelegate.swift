@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  HarryPotterCharakters_SwiftUI
+//  HarryPotterCharakter
 //
 //  Created by Gianmarco Giretti on 25.07.19.
 //  Copyright © 2019 Gianmarco Giretti. All rights reserved.

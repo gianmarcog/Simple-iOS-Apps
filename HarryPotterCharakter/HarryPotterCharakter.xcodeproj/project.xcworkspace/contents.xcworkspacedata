@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HarryPotterCharakters_SwiftUI.xcodeproj">
+      location = "self:HarryPotterCharakter.xcodeproj">
    </FileRef>
 </Workspace>
